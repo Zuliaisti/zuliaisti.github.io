@@ -1,0 +1,21 @@
+
+body 
+{background-color:lightblue;
+background-image: url(./img/bggardasi2.png);
+background-repeat: repeat-x;}
+h1 {color :black; text-align: center;font-family: Arial;font: size 120px;}
+p {font-variant: normal;
+font-size:medium;
+font-family: Arial, Helvetica, sans-serif;
+color :black}
+h2 {color : black; text-align: left;}
+
+.para {
+    color: lightblue; 
+    margin: bottom 50px;
+    border:1px solid blue;
+    padding: 20px;
+}
+
+
+
